@@ -27,6 +27,7 @@ setup(
     license='TODO: License declaration',
     entry_points={
         'console_scripts': [
+            'swing = karate.swing:main',
         ],
     },
 )

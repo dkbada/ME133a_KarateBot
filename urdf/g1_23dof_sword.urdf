@@ -853,7 +853,7 @@
   </link>
 
   <!-- ================================================================== -->
-  <!-- SWORD (from sword.urdf), rigidly held in the right hand.            -->
+  <!-- SWORD (from sword.urdf), held in the right hand.                   -->
   <!-- ================================================================== -->
   <material name="steel">
     <color rgba="0.80 0.82 0.85 1.0"/>
